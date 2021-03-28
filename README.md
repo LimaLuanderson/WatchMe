@@ -16,6 +16,7 @@ yarn server
 
 ## Tecnologias Utilizadas
 - [React](https://pt-br.reactjs.org/)
-
+- [Typescript](https://www.typescriptlang.org/)
+- 
 
 ![](/public/screenshots/watchme.png)
